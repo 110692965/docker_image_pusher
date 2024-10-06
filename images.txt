@@ -18,9 +18,9 @@
 # 编程
 -- centos
 -- bitnami/minio
--- edhongcy/mysql:8.0.12-data-1
+mysql:8.0.12-data-1
 -- erlang
 -- mongo:4.1.4-data-1
-nacos-registry.cn-hangzhou.cr.aliyuncs.com/nacos/nacos-server:v2.3.2
+nacos-server:v2.3.2
 rabbitmq:latest-data-3
 redis:5.0-data-2
