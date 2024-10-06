@@ -19,7 +19,7 @@ jeessy/ddns-go
 centos
 bitnami/minio
 edhongcy/mysql:8.0.12-data-1
-erlang
+# erlang
 mongo:4.1.4-data-1
 nacos-registry.cn-hangzhou.cr.aliyuncs.com/nacos/nacos-server:v2.3.2
 rabbitmq:latest-data-3
