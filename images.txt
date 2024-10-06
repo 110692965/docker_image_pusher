@@ -1,2 +1,1 @@
-
-myrepo/open-webui
+open-webui
